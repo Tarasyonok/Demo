@@ -1,9 +1,12 @@
-# Environment
-.venv/
-.env/
+# Environments
+.venv
+.env
+
+# Byte-compiled
+__pycache__/
 
 # PyCharm
-.idea/
+.idea
 
 # VsCode
-.vscode/
+.vscode
